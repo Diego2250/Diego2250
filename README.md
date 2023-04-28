@@ -8,11 +8,11 @@ Currently, I'm pursuing my third year of Computer Science and Information Techno
 <img src='https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png' height='100'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png' height='100'> <img src='https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg' height='100'> <img src='https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png' height='100'>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Diego2250)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego2250)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego2250&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Diego2250)  
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Diego2250)  
