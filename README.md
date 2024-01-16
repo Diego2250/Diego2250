@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Diego
 #### I am Computer Science Student and a SAP Developer
-Currently, I'm pursuing my third year of Computer Science and Information Technology Engineering at Universidad del Valle de Guatemala. I'm also working at Inforum Solutions as a SAP developer.  
+Currently, I'm pursuing my fourth year of Computer Science and Information Technology Engineering at Universidad del Valle de Guatemala. I'm also working at Inforum Solutions as a SAP developer.  
 
 ## Skills:
 
