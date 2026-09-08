@@ -14,8 +14,8 @@ del Valle de Guatemala (2027). B.Sc. in Computer Science, AI specialization, UVG
 
 ## Stack
 
-**Languages** · Python · SQL · R
-**Backend** · FastAPI · SQLAlchemy · REST API design
-**Data & BI** · PostgreSQL · SQL Server · MySQL · Power BI
-**Cloud & Infra** · AWS (EC2, S3, SES) · Docker · Proxmox
-**Enterprise** · SAP Business One (Service Layer)
+- **Languages** · Python · SQL · R
+- **Backend** · FastAPI · SQLAlchemy · REST API design
+- **Data & BI** · PostgreSQL · SQL Server · MySQL · Power BI
+- **Cloud & Infra** · AWS (EC2, S3, SES) · Docker · Proxmox
+- **Enterprise** · SAP Business One (Service Layer)
