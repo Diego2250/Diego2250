@@ -1,10 +1,11 @@
 # Diego Morales
 
-**CTO @ Improgress** | AI products for banking in Central America
+**CTO @ Improgress** | AI products for operations and supply chain
 
-I lead a team of 6 building and shipping a portfolio of 7 AI products for banking
-clients. Before that I was a backend engineer, and before that I spent two years
-on SAP Business One integrations.
+I lead a team of 6 building and shipping a portfolio of 7 AI products, from
+demand forecasting and replenishment to routing optimization. Before that I was a
+backend engineer, and before that I spent two years on SAP Business One
+integrations.
 
 Currently pursuing a M.Sc. in Business Intelligence & Analytics at Universidad
 del Valle de Guatemala (2027). B.Sc. in Computer Science, AI specialization, UVG
